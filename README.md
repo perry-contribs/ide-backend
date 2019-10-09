@@ -27,12 +27,12 @@ npm start
 ````
 
 
-### Project Stucture
+### Project Structure
 
 The project has been created express.js and therefore has a similar structure to all express.js apps.
 
 ````
-routes/ –  Contains all routes split as per their catergory into their respective files
+routes/ –  Contains all routes split as per their category into their respective files
 views/  – Jade templates for all the views
 util/ – Contains database and environment configuration files
 public/ – Contains assets served along with the webpages
